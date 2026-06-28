@@ -1,0 +1,13 @@
+[bluetooth]
+device_name = "pipecall"
+device_class = "car_audio"
+
+[audio]
+backend = "pipewire"
+
+[notifications]
+enabled = true
+show_content = true
+
+[contacts]
+sync = true
